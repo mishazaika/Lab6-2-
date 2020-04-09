@@ -1,0 +1,9 @@
+C:\Users\misha\source\repos\Lab6-2\LaboratoryWork(2)\LaboratoryWork(2)\bin\Debug\LaboratoryWork(2).exe.config
+C:\Users\misha\source\repos\Lab6-2\LaboratoryWork(2)\LaboratoryWork(2)\bin\Debug\LaboratoryWork(2).exe
+C:\Users\misha\source\repos\Lab6-2\LaboratoryWork(2)\LaboratoryWork(2)\bin\Debug\LaboratoryWork(2).pdb
+C:\Users\misha\source\repos\Lab6-2\LaboratoryWork(2)\LaboratoryWork(2)\obj\Debug\LaboratoryWork(2).csprojAssemblyReference.cache
+C:\Users\misha\source\repos\Lab6-2\LaboratoryWork(2)\LaboratoryWork(2)\obj\Debug\LaboratoryWork_2_.Form1.resources
+C:\Users\misha\source\repos\Lab6-2\LaboratoryWork(2)\LaboratoryWork(2)\obj\Debug\LaboratoryWork_2_.Properties.Resources.resources
+C:\Users\misha\source\repos\Lab6-2\LaboratoryWork(2)\LaboratoryWork(2)\obj\Debug\LaboratoryWork(2).csproj.GenerateResource.cache
+C:\Users\misha\source\repos\Lab6-2\LaboratoryWork(2)\LaboratoryWork(2)\obj\Debug\LaboratoryWork(2).exe
+C:\Users\misha\source\repos\Lab6-2\LaboratoryWork(2)\LaboratoryWork(2)\obj\Debug\LaboratoryWork(2).pdb
